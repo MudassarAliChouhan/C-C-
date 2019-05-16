@@ -1,0 +1,12 @@
+List of all spacialist Doctor's. If you can add new spacialist e.g.Start with the 'hash' key some example are following below::
+
+# General Physician 	= 201   202
+# E.N.T               	= 302
+# Cardiologist        	= 509
+# Dermatologist       	= 406
+# Gastroenterologist  	= 308
+# Pediatrician        	= 207
+# EYE Specialist      	= 102
+# Nephrologist        	= 109
+# General Surgeon     	= 407 408  412 413
+# Accupuncturist      	= 129 119
